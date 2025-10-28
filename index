@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BloodSync App</title>
+
+    <!-- Redirect instantly to the deep link -->
+    <meta http-equiv="refresh" content="0; url=https://bloodsync.app/splash" />
+  </head>
+  <body>
+    <p>Redirecting to BloodSync App...</p>
+    <script>
+      // Fallback if meta refresh fails
+      window.location.href = "https://bloodsync.app/splash";
+    </script>
+  </body>
+</html>
