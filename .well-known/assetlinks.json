@@ -1,10 +1,10 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
+    "namespace": "com.brainstormertech.blood_sync",
     "package_name": "com.brainstormertech.blood_sync",
     "sha256_cert_fingerprints": [
-      "9B:A7:35:F2:F6:30:A7:49:4C:3E:BA:08:54:1A:BF:5B:08:41:50:EB:74:6E:3F:BA:F9:72:08:91:5B:AB:28:D4"
+      "1A:1F:75:3A:2C:EF:C9:02:6F:83:2A:10:46:FF:34:38:91:E8:BC:FB:42:B9:07:07:14:B8:7B:1C:C5:7E:62:D6"
     ]
   }
 }]
